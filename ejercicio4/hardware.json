@@ -1,0 +1,52 @@
+{
+    "hardware": [
+        {
+            "marca": "iBuyPower",
+            "tipo": "sobremesa",
+            "modelo": "miniATX",
+            "precio": 2000.99,
+            "anyo": 2025,
+            "gpu": "Nvidia"
+        },
+        {
+            "marca": "iMac",
+            "tipo": "sobremesa",
+            "modelo": "descatalogado",
+            "precio": 0,
+            "anyo": 2020,
+            "gpu": "integrada"
+        },
+        {
+            "marca": "Razer",
+            "tipo": "sobremesa",
+            "modelo": "ATX",
+            "precio": 2500,
+            "anyo": 2026,
+            "gpu": "AMD"
+        },
+        {
+            "marca": "Macbook",
+            "tipo": "portatil",
+            "modelo": "14'",
+            "precio": 2099,
+            "anyo": 2024,
+            "gpu": "integrada"
+        },
+        {
+            "marca": "Lenovo",
+            "tipo": "portatil",
+            "modelo": "16'",
+            "precio": 1099,
+            "anyo": 2025,
+            "gpu": "Nvidia"
+        },
+        {
+            "marca": "Thinkpad",
+            "tipo": "portatil",
+            "modelo": "16'",
+            "precio": 899,
+            "anyo": 2023,
+            "gpu": "integrada"
+        }
+    ]
+}
